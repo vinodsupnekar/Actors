@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E07E8077-282F-4B71-9908-77F585C8F637"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Actors/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27 - 2f58b5eef5130b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Sendable () async -&gt; () in Actors.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Actors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinod.supnekar/Documents/academy/Concurrency/Actors/Actors/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27 - 2f58b5eef5130b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Sendable () async -&gt; () in Actors.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Actors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinod.supnekar/Documents/academy/Concurrency/Actors/Actors/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27 - 3a23fe94ac9443f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #3 @Sendable () async -&gt; () in Actors.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Actors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinod.supnekar/Documents/academy/Concurrency/Actors/Actors/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27 - 5312df9c23200ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #3 @Sendable () async -&gt; () in Actors.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Actors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinod.supnekar/Documents/academy/Concurrency/Actors/Actors/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C6E9D6BE-0464-43A9-A6CA-B91CE0545A27 - 69232c0f910ca8d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 @Sendable () async -&gt; () in Actors.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Actors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinod.supnekar/Documents/academy/Concurrency/Actors/Actors/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A99B0C80-DCFA-454D-B50A-BDD9E5397C7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Actors/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
